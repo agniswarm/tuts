@@ -7,3 +7,5 @@ from newBranch
 showing somehtng important
 
 will push some great code
+
+edited from remote
